@@ -57,12 +57,12 @@ ComfyUI listen at: **http://0.0.0.0:8188**
 
 | Component  | Requirement                                |
 | ---------- | ------------------------------------------ |
-| **GPU**    | AMD series with ROCm RDNA 3.5  support     |
+| **GPU**    | AMD series with ROCm RDNA 2-4 support      |
 |   Depends on number of - HSA_OVERRIDE_GFX_VERSION=      |
 | **VRAM**   | 8GB minimum (16GB+ recommended)            |
 | **OS**     | Linux (Ubuntu 24.04+ recommended)          |
 | **Docker** | Latest official version (29.1.4)           |
-| **ROCm**   | Drivers 7.11.0+ installed on host           |
+| **ROCm**   | Drivers 7.11.0+ installed on host          |
 
 ## 🔧 Setup Instructions
 
