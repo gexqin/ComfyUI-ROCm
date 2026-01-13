@@ -61,7 +61,7 @@ ComfyUI listen at: **http://0.0.0.0:8188**
 |         Depends on - HSA_OVERRIDE_GFX_VERSION=          |
 | **VRAM**   | 8GB minimum (16GB+ recommended)            |
 | **OS**     | Linux (Ubuntu 24.04+ recommended)          |
-| **Docker** | Latest version with GPU support            |
+| **Docker** | Latest official version (29.1.4)           |
 | **ROCm**   | Drivers 7.1.1+ installed on host           |
 
 ## 🔧 Setup Instructions
@@ -72,7 +72,7 @@ https://rocm.docs.amd.com/projects/install-on-linux/en/latest/install/quick-star
 
 ### 2. Verify ROCm Installation
 ```bash
-rocminfo  # Should show your AMD GPU model in Agent 2(s)
+rocminfo  # Should show your AMD GPU model in Agent 2
 ```
 For example
 
