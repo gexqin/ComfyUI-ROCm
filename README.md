@@ -16,7 +16,7 @@
 ## ✨ Key Features
 
 - 🎨 **Node-based AI workflow** - Visual interface for creating complex AI pipelines
-- 🔥 **AMD ROCm optimized** - Native AMD GPU acceleration with ROCm 7.0+
+- 🔥 **AMD ROCm optimized** - Native AMD GPU acceleration with ROCm 7.1+
 - 📦 **Smart model management** - Automatic downloads with configurable model sets
 - 🧪 **Tested compatibility** - All dependencies verified on real AMD hardware
 - 🎯 **Ready to use** - Pre-configured with sample workflows
