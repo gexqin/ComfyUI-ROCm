@@ -7,11 +7,11 @@
 
 ## 📋 Version Information
 
-- **Base Image**: `rocm/pytorch:rocm7.11.0_ubuntu24.04_py3.12_pytorch_release_2.11.0`
+- **Base Image**: `rocm/pytorch:rocm7.1.1_ubuntu24.04_py3.12_pytorch_release_2.9.1`
 - **Python**: 3.12.3
-- **PyTorch**: 2.11.0
-- **ROCm**: 7.11.0
-- **ComfyUI**: v0.8.2 
+- **PyTorch**: 2.9.1
+- **ROCm**: 7.1.1
+- **ComfyUI**: v0.9.1 
 
 ## ✨ Key Features
 
