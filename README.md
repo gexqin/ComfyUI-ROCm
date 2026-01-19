@@ -11,7 +11,7 @@
 - **Python**: 3.12.3
 - **PyTorch**: 2.9.1
 - **ROCm**: 7.1.1
-- **ComfyUI**: v0.9.1 
+- **ComfyUI**: v0.9.2 
 
 ## ✨ Key Features
 
@@ -55,7 +55,7 @@ services:
     restart: unless-stopped
 ```
 Run with: `docker compose up -d`
-ComfyUI 0.9.1 listen on: **http://0.0.0.0:8188**
+ComfyUI 0.9.2 listen on: **http://0.0.0.0:8188**
 
 ## 📋 Requirements
 
