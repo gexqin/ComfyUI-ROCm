@@ -1,7 +1,8 @@
 # Monitor-script for AMD AI MAX+ 395
 
 ![Monitor-script](monitor.png)
-*Monitor-script for AMD AI MAX+ 395 tested on Ubuntu24.04 LTS*
+
+#*Monitor-script for AMD AI MAX+ 395 tested on Ubuntu24.04 LTS*
 
 ## 📋 For System Temperature Function need install lm-sensors
 
