@@ -5,7 +5,7 @@
 
 ## 📋 SYSTEM TEMP
 
-bash '''
+```bash
 sudo apt install lm-sensors -y
 sudo sensors-detect #Initialization (only once) All answers yes automatic scan sensor
-'''
+```
