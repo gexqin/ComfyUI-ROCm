@@ -13,3 +13,6 @@ sudo apt install lm-sensors -y
 ```bash
 sudo sensors-detect #Initialization (only once) All answers YES for automatic scan sensor
 ```
+```bash
+chmod +x monitor.sh
+```
