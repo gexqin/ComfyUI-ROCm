@@ -11,5 +11,5 @@ sudo apt install lm-sensors -y
 ```
 
 ```bash
-sudo sensors-detect #Initialization (only once) All answers yes automatic scan sensor
+sudo sensors-detect #Initialization (only once) All answers YES for automatic scan sensor
 ```
